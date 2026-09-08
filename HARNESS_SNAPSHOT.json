@@ -69,7 +69,7 @@
     "sha256": "31ecb653765760d7401930b57e91ea4a752a6540d06738099854c7180a61169f",
     "version": "1.5.1"
   },
-  "built_at": "2026-09-08T16:56:31+08:00",
+  "built_at": "2026-09-08T18:28:55+08:00",
   "digest_excludes": [
     "HARNESS_SNAPSHOT.json",
     "HARNESS_SNAPSHOT_HISTORY.json",
@@ -1243,12 +1243,12 @@
       "sha256": "3f899616e5b8b6462d6bf3fcbc3a56be6b44a3bdc1730cf35cfc60abb67207a2"
     },
     {
-      "bytes": 9302,
+      "bytes": 9834,
       "layer": "web_channel",
       "mode": "0644",
       "owner": "harness",
       "path": "WEB_CONTEXT_BUNDLE.md",
-      "sha256": "5f56f5b013e64ce8f09f9d00fa808c4e32a73a1d1e0a1dea4bb36837ad4bcb13"
+      "sha256": "7622bb82e389135d86d39c5b961033fd1d7b49a0aaae9c45eac925d1f0847b81"
     },
     {
       "bytes": 8799,
@@ -1635,12 +1635,12 @@
       "sha256": "08cfe86133ca8225b3909978735af132b1fc81c88612a0d22b51c0cc16b8e00c"
     },
     {
-      "bytes": 1557,
+      "bytes": 2019,
       "layer": "problem_instance",
       "mode": "0644",
       "owner": "problem",
       "path": "problem-library/records/canonical-problems.jsonl",
-      "sha256": "e30abb1cf2f0f5b39877b895a7480943550c727f7fe4b842769dc20966179541"
+      "sha256": "00a89920b70a479d2695c075d710de523cd65c562b2ac2d3d1296392634a3557"
     },
     {
       "bytes": 3891,
@@ -2086,27 +2086,27 @@
   "harness_version": "1.5.1",
   "problem": {
     "admission": "preview_unadmitted",
-    "contract_sha256": "e64cd03254e03dd661eade23243c3c21793fc2d8bffa2d33c172cf8ed2e7f940",
+    "contract_sha256": "43d5c33bf079d370e0930bb45da3ff398762fe8840976772b257a08bd2fdb141",
     "lifecycle": "draft",
-    "problem_id": "problem:template-placeholder"
+    "problem_id": "problem:wikipedia-f055130d494ae6ed"
   },
   "profile": "web-research-full",
-  "repository": "vibemathing/vibe-mathing-problem-public-template",
+  "repository": "vibemathing/problem-wikipedia-f055130d494ae6ed",
   "repository_identity": {
     "binding_state": "verified",
-    "database_id": 1358726712,
+    "database_id": 1361297771,
     "default_branch": "main",
-    "full_name": "vibemathing/vibe-mathing-problem-public-template",
-    "node_id": "R_kgDOUPyGOA",
+    "full_name": "vibemathing/problem-wikipedia-f055130d494ae6ed",
+    "node_id": "R_kgDOUSPBaw",
     "visibility": "public"
   },
   "schema_version": "1.1.0",
-  "snapshot_id": "harness-snapshot:template-placeholder",
+  "snapshot_id": "harness-snapshot:wikipedia-f055130d494ae6ed",
   "source": {
     "commit": "94cff861e217ccfec6122b3c79b828a24afc0378",
     "repository": "reviewed-public-export",
     "source_manifest_sha256": "94cff861e217ccfec6122b3c79b828a24afc03784c8572018772fb2bfcc35766",
     "worktree_dirty": false
   },
-  "tree_sha256": "33bd7beeecb49814d39a9649a5fad73917e97b66fcb2998fd0b82833aa794b57"
+  "tree_sha256": "727feb11a11f40c67b72cf2a871f14a1a67d3dc5a97b4f52c63bcf25fd045a57"
 }
